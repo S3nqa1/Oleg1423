@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oleg1423
+- 👋 Hi, I’m S3nqa1
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
